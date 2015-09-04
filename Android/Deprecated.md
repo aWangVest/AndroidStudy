@@ -77,4 +77,3 @@ http://developer.android.com/reference/android/support/v4/content/FileProvider.h
 用来获取信号强度的，但是LISTEN_SIGNAL_STRENGTHS是API7才添加的，这一点需要酌情
 
 http://developer.android.com/reference/android/telephony/PhoneStateListener.html#LISTEN_SIGNAL_STRENGTHS
-
